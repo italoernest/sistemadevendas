@@ -35,5 +35,5 @@ O projeto está organizado em pacotes para melhor modularização e organizaçã
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seuusuario/sistema-de-vendas-java.git
+   git clone https://github.com/italoernest/sistema-de-vendas-java.git
    cd sistema-de-vendas-java

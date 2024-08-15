@@ -1,3 +1,5 @@
+<img src="https://landix.com.br/wp-content/uploads/2021/02/5.-Imagem-blogpost.png" alt="Sistemas de Vendas">
+
 # Sistema de Vendas em Java
 
 Este é um sistema de vendas desenvolvido em Java, que permite gerenciar estoque, realizar vendas, cadastrar produtos e clientes. O sistema foi projetado para ser simples e eficiente, facilitando o gerenciamento das operações de uma loja ou empresa.
